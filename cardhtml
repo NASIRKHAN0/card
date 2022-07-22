@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="cards-wrapper">
+        <div class="card">
+            <div class="card-img">
+                <img src="./images/img.png" alt="">
+            </div>
+            <h2>
+                4 days ago
+            </h2>
+            <span class="card-title"> London </span>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas repellendus ea vel aliquid, iusto, sed
+                exercitationem officia magni iure perferendis numquam mollitia culpa sint. Hic quo possimus dicta
+                exercitationem earum!</p>
+            <div class="card-bottom-wrapper">
+                <span> 12345 Views</span>
+                <span>329 Comments</span>
+                <span>4.5 Rating </span>
+
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-img">
+                <img src="./images/new-york.jfif" alt="">
+            </div>
+            <h2>
+                4 days ago
+            </h2>
+            <span class="card-title"> New York </span>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas repellendus ea vel aliquid, iusto, sed
+                exercitationem officia magni iure perferendis numquam mollitia culpa sint. Hic quo possimus dicta
+                exercitationem earum!</p>
+            <div class="card-bottom-wrapper">
+                <span> 12345 Views</span>
+                <span>329 Comments</span>
+                <span>4.5 Rating </span>
+
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-img">
+                <img src="./images/new-york.jfif" alt="">
+            </div>
+            <h2>
+                4 days ago
+            </h2>
+            <span class="card-title"> marrakech </span>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas repellendus ea vel aliquid, iusto, sed
+                exercitationem officia magni iure perferendis numquam mollitia culpa sint. Hic quo possimus dicta
+                exercitationem earum!</p>
+            <div class="card-bottom-wrapper">
+                <span> 12345 Views</span>
+                <span>329 Comments</span>
+                <span>4.5 Rating </span>
+
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
